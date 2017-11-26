@@ -5,7 +5,7 @@ main:
   #  url: /year-archive/
   - title: "Artigos"
     url: /publications/
-     
+
   - title: "Notas de Aulas"
     url: /teaching/    
   
@@ -18,5 +18,5 @@ main:
   - title: "Sobre"
     url: /cv/
 
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
