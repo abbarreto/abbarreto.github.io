@@ -3,7 +3,9 @@ main:
   
   #- title: "Blog"
   #  url: /year-archive/
-    
+  - title: "Artigos"
+    url: /publications/
+     
   - title: "Notas de Aulas"
     url: /teaching/    
   
@@ -11,14 +13,10 @@ main:
     url: /talks/    
   
   - title: "Projetos"
-    url: /projects/
-
-  - title: "Artigos"
-    url: /publications/   
+    url: /projects/  
 
   - title: "Sobre"
     url: /cv/
 
-     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Guide"
+    url: /markdown/
