@@ -4,16 +4,16 @@ main:
   #- title: "Blog"
   #  url: /year-archive/
     
-  #- title: "Notas de Aulas"
-  #  url: /teaching/    
+  - title: "Notas de Aulas"
+    url: /teaching/    
   
-  #- title: "Palestras"
-  #  url: /talks/    
+  - title: "Palestras"
+    url: /talks/    
   
-  #- title: "Projetos"
-  #  url: /projects/
+  - title: "Projetos"
+    url: /projects/
 
-  - title: "Publicações"
+  - title: "Artigos"
     url: /publications/   
 
   - title: "Sobre"
