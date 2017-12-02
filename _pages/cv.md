@@ -11,10 +11,10 @@ redirect_from:
 
 Formação
 ======
-* 2009: Licenciatura Plena em Física pelo [IFCE](http://ifce.edu.br/)
-* 2012: Mestrado em Física e Matemática Aplicada pela [UNIFEI](https://www.unifei.edu.br/)
+* **2009:** Licenciatura Plena em Física pelo [**IFCE**](http://ifce.edu.br/)
+* **2012:** Mestrado em Física e Matemática Aplicada pela [**UNIFEI**](https://www.unifei.edu.br/)
 	* **"**_Modelo cosmológico de FLRW com constante cosmológica e dominado por um fluido de Yang-Mills._**"** [(pdf)](https://saturno.unifei.edu.br/bim/0039516.pdf)
-* 2016: Doutorado em Física pela [UFPB](http://www.ufpb.br/)
+* **2016:** Doutorado em Física pela [**UFPB**](http://www.ufpb.br/)
 	* **"**_Singularidades cosmológicas no espaço-tempo de Weyl integrável - Aspectos clássicos e quânticos._**"** [(pdf)](http://tede.biblioteca.ufpb.br/bitstream/tede/9567/2/arquivototal.pdf)
 
 
