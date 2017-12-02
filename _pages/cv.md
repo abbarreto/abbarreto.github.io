@@ -20,7 +20,7 @@ Formação
 
 Posição Atual
 ======
-* Professor Efetivo no [IFRS](http://ifrs.edu.br/) -- Campus [Caxias do Sul](http://www.caxias.ifrs.edu.br)
+* Professor Efetivo no [**IFRS**](http://ifrs.edu.br/) -- _Campus_ [**Caxias do Sul**](http://www.caxias.ifrs.edu.br)
   
 Áreas de Interesse
 ======
