@@ -12,3 +12,5 @@ collection: projects
 
 [Quarkstream](https://quarkstream.wordpress.com/)
 
+[Using Python with Arduino](http://www.toptechboy.com/using-python-with-arduino-lessons/)
+
