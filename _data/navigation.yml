@@ -9,8 +9,8 @@ main:
   #- title: "Notas de aula"
   #  url: /teaching/    
   
-  #- title: "Palestras"
-  #  url: /talks/    
+  - title: "Palestras"
+    url: /talks/    
   
   - title: "Projetos"
     url: /projects/  
