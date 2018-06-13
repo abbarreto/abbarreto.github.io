@@ -11,8 +11,6 @@ tags:
   - Tag3
   - Tag4
 ---
-# Unindo Python e $$\LaTeX$$ para gerar provas
-  
 Aqui vai o texto explicando sobre o código... Exemplo do código usando o pacote *pythontex*:
     
 ```python
