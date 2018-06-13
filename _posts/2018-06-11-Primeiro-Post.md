@@ -3,7 +3,7 @@ title: 'Unindo Python e Latex para gerar provas'
 collection: posts
 author: Adriano
 date: 2018-06-11
-permalink: /posts/2018/06/Unindo-Python-e-Latex/
+permalink: /posts/2018/06/Primeiro-Post/
 excerpt: 'resumo do post'
 tags:
   - Tag1
@@ -11,7 +11,7 @@ tags:
   - Tag3
   - Tag4
 ---
-# Unindo Python e $\LaTeX$ para gerar provas
+# Unindo Python e $$\LaTeX$$ para gerar provas
   
 Aqui vai o texto explicando sobre o código... Exemplo do código usando o pacote *pythontex*:
     
