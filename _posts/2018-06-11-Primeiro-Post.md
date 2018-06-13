@@ -1,5 +1,5 @@
 ---
-title: 'Unindo Python e Latex para gerar provas'
+title: 'Unindo Python e $$\LaTeX$$ para gerar provas'
 collection: posts
 author: Adriano
 date: 2018-06-11
