@@ -12,5 +12,3 @@ tags:
   - Tag4
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UwMr4J_TXko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{% youtube UwMr4J_TXko %}
