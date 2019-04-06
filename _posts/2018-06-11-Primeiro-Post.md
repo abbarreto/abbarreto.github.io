@@ -4,12 +4,18 @@ collection: posts
 author: Adriano
 date: 2018-06-11
 permalink: /posts/2018/06/Primeiro-Post/
-excerpt: 'resumo do post'
+excerpt: 'O pacote pythontex permite rodar um código em python dentro de um documento escrito em TeX. Então, utilizei esse pacote para elaborar provas objetivas, multipla-escolha, com um código que gera aleatóriamente os valores dos dados das questões, embaralha as alternativas de resposta e imprime o gabarito no final da prova.'
 tags:
-  - Tag1
-  - Tag2
-  - Tag3
-  - Tag4
+  - LaTeX
+  - Python
+---
+O pacote pythontex permite rodar um código em python dentro de um documento escrito em TeX. Então, utilizei esse pacote para elaborar provas objetivas, multipla-escolha, com um código que gera aleatóriamente os valores dos dados das questões, embaralha as alternativas de resposta e imprime o gabarito no final da prova.
+
+## PythonTeX
+---
+Link para o pacote [PythonTeX].
+
+### Instalação
 ---
 Aqui vai o texto explicando sobre o código... Exemplo do código usando o pacote *pythontex*:
     
@@ -30,3 +36,7 @@ Aqui vai o texto explicando sobre o código... Exemplo do código usando o pacot
     	return listaRqX
     \end{pycode}
 ```
+
+
+
+[pythontex]: <https://ctan.org/pkg/pythontex>
