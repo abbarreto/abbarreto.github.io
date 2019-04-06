@@ -4,7 +4,7 @@ collection: posts
 author: Adriano
 date: 2019-03-27
 permalink: /posts/2019/03/Segundo-Post/
-excerpt: '<iframe width="560" height="315" src="https://www.youtube.com/embed/UwMr4J_TXko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+excerpt: ' <iframe width="560" height="315" src="https://www.youtube.com/embed/UwMr4J_TXko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> '
 tags:
   - Tag1
   - Tag2
