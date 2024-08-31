@@ -1,6 +1,30 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Symmetry":
+  url: https://www.mdpi.com/journal/symmetry
+  color: "#365c85"
+
+"Phys.Rev.D":
+  url: https://journals.aps.org/prd/
+  color: "#62a0e3"
+
+"AIP Publis.":
+  url: https://publishing.aip.org/
+  color: "#0541f5"
+
+"EPJ C":
+  url: https://link.springer.com/journal/10052
+  color: "#8c041d"
+
+"Class.Quant.Grav.":
+  url: https://iopscience.iop.org/journal/0264-9381
+  color: "#92b7d4"
+
+"Quantum":
+  url: https://quantum-journal.org/
+  color: "#5a1691"
+  
+"Nucl.Phys.B":
+  url: https://www.sciencedirect.com/journal/nuclear-physics-b
+  color: "#59555c"
 
 "PhysRev":
   url: https://journals.aps.org/
