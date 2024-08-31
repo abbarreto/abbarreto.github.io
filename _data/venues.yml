@@ -25,9 +25,3 @@
 "Nucl.Phys.B":
   url: https://www.sciencedirect.com/journal/nuclear-physics-b
   color: "#59555c"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
