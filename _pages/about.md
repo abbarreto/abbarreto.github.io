@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
-subtitle: Subtitle | Subtitle | Subtitle |
+subtitle: Professor | Quantum Physics | Gravitational Physics
 
 profile:
   align: right
