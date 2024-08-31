@@ -6,12 +6,12 @@ subtitle: Subtitle | Subtitle | Subtitle |
 
 profile:
   align: right
-  image: me-edited.jpg
+  image: me.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Born in Fortaleza, CE, Brazil 🇧🇷;</p>
+    <p>Lives in Caxias do Sul, RS, Brazil 🇧🇷;</p>
+    <p> Currently residing in Tübingen, Germany 🇩🇪.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
