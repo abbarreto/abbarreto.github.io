@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: 🇧🇷 Subtitle | Subtitle | Subtitle | 🇧🇷
+subtitle: Subtitle | Subtitle | Subtitle |
 
 profile:
   align: right
-  image: me.jpeg
+  image: me-edited.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
