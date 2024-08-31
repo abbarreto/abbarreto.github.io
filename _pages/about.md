@@ -9,9 +9,9 @@ profile:
   image: me.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Born in Fortaleza, CE, Brazil 🇧🇷;</p>
-    <p>Lives in Caxias do Sul, RS, Brazil 🇧🇷;</p>
-    <p> Currently residing in Tübingen, Germany 🇩🇪.</p>
+    <p>Born in Fortaleza 🇧🇷;</p>
+    <p>Residing in Caxias do Sul 🇧🇷;</p>
+    <p>Currently in Tübingen 🇩🇪.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
