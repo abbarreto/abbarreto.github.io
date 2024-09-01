@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-09-02 09:00:00 +0200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Participating on <a href="https://vcq.quantum.at/summer-school-2024/"><VCQ&TURIS - Summer School 2024</a>.
