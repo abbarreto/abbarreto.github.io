@@ -6,7 +6,7 @@ subtitle: Gravitational Physics | Quantum Physics |
 
 profile:
   align: right
-  image: me2.jpeg
+  image: me2cutted.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Born in Fortaleza 🇧🇷;</p>
