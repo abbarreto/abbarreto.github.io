@@ -19,7 +19,7 @@ This is a simple image slider. It uses the [Swiper](https://swiperjs.com/) libra
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024-2.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -31,5 +31,5 @@ This is a simple image comparison slider. It uses the [img-comparison-slider](ht
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024.jpeg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024.jpeg" class="img-fluid rounded z-depth-1" slot="second" %}
+  {% include figure.liquid path="assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024-2.jpeg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
