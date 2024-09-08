@@ -2,11 +2,11 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: Professor | Quantum Physics | Gravitational Physics
+subtitle: Gravitational Physics | Quantum Physics |
 
 profile:
   align: right
-  image: me.jpeg
+  image: me2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Born in Fortaleza 🇧🇷;</p>
