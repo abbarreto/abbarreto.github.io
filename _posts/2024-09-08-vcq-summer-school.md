@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VCQ&TURIS - Summer School 2024.
-date: 2024-09-08 20:13:00
+date: 2024-09-08 13:13:00
 description: Interfacing Gravity and Quantum Physics.
 tags: conference
 categories: sample-posts
