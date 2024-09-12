@@ -6,7 +6,6 @@ description: Interfacing Gravity and Quantum Physics.
 tags: summer school
 categories: conferences
 thumbnail: assets/img/posts/2024-09-08-vcq-turis/Logo_VCQ-TURIS.png
-image: assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024-2.jpeg
 images:
   compare: true
   slider: true
