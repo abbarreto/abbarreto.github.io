@@ -13,7 +13,7 @@ images:
 ---
 
 This is an example post with advanced image components.
-![Minha Imagem](/assets/img/posts/2024-09-08-vcq-turis/VCQ-TURIS-SummerSchool2024-2.jpeg)
+
 
 ## Image Slider
 
