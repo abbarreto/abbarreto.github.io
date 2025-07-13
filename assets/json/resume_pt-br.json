@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Cientista",
+    "name": "Adriano Braga Barreto",
+    "label": "Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://george-gca.github.io/multi-language-al-folio/pt-br/",
-    "summary": "Um físico teórico alemão, amplamente considerado um dos cientistas mais influentes de todos os tempos",
+    "email": "abbarreto86@gmail.com",
+    "phone": "(xxx) xxxx-xxxx",
+    "url": "https://abbarreto.github.io/",
+    "summary": "sumario ou breve descricao aqui",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Rua ... Numero xxx",
+      "postalCode": "XXX.XXX-XXX",
+      "city": "Cidade tal",
+      "countryCode": "BR",
+      "region": "Regiao tal"
     },
     "profiles": [
       {
@@ -149,7 +149,7 @@
   ],
   "languages": [
     {
-      "language": "Alemão",
+      "language": "Português",
       "fluency": "Nativo",
       "icon": ""
     },
