@@ -41,20 +41,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/en-us/teaching/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/en-us/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/en-us/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
