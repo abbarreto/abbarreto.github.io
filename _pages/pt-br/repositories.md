@@ -4,7 +4,7 @@ layout: page
 permalink: /repositories/
 title: Repositórios
 description: Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.
-nav: true
+nav: false
 nav_order: 5
 ---
 
