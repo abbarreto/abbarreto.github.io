@@ -3,11 +3,11 @@ page_id: about
 layout: about
 title: Bio
 permalink: /
-subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: photo_wp-cutted2.png
+  image: photo_wp-cutted2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     
