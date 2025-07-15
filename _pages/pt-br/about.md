@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 {% Do you prefer it in English? Expand here %}
-But the EN-US version is also available here [https://abbarreto.github.io/en-us/](https://abbarreto.github.io/en-us/), or you can change from `PT-BR` to `EN-US` in the top menu as shown in the figure below 
+The EN-US version is also available here [https://abbarreto.github.io/en-us/](https://abbarreto.github.io/en-us/), or you can change from `PT-BR` to `EN-US` in the top menu as shown in the figure below 
 ![To change the language](change-lang-EN.png)
 {% enddetails %}
 
