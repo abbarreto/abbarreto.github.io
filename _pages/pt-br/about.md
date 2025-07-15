@@ -25,9 +25,9 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-{% Do you prefer it in English? Expand here %}
+{% details Do you prefer it in English? Expand here %}
 The EN-US version is also available here [https://abbarreto.github.io/en-us/](https://abbarreto.github.io/en-us/), or you can change from `PT-BR` to `EN-US` in the top menu as shown in the figure below 
-![To change the language](change-lang-EN.png)
+![To change the language](/assets/img/change-lang-EN.png)
 {% enddetails %}
 
 Escreva sua biografia aqui. Diga ao mundo sobre você. Adicione o link para o seu [subreddit](http://reddit.com) favorito. Você pode colocar uma foto também. O código já está dentro, basta nomear sua foto como `prof_pic.jpg` e colocá-la na pasta `img/`.
