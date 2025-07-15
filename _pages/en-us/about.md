@@ -25,8 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 {% details **Você prefere em português? Expanda aqui** %}
-A versão em `PT-BR` também está disponível em [abbarreto.github.io](https://abbarreto.github.io), ou você pode trocar de `EN-US` para `PT-BR` no menu superior, como mostrado na figura abaixo
-![Foo](https://abbarreto.github.io)](/assets/img/change-lang-PT.png)
+A versão em `PT-BR` também está disponível em [abbarreto.github.io](https://abbarreto.github.io), ou você pode trocar de `EN-US` para `PT-BR` no menu superior.
 {% enddetails %}
 
 ---

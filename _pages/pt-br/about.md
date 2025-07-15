@@ -11,7 +11,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -26,8 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 {% details **Do you prefer it in English? Expand here** %}
-The `EN-US` version is also available here [https://abbarreto.github.io/en-us/](https://abbarreto.github.io/en-us/), or you can change from `PT-BR` to `EN-US` in the top menu as shown in the figure below 
-![Foo](https://abbarreto.github.io/en-us/)](/assets/img/change-lang-EN.png)
+The `EN-US` version is also available here [https://abbarreto.github.io/en-us/](https://abbarreto.github.io/en-us/), or you can switch from `PT-BR` to `EN-US` in the top menu.
 {% enddetails %}
 
 ---
