@@ -3,7 +3,7 @@ page_id: cv
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
+nav: false
 nav_order: 6
 cv_pdf: DetailedCV_ABBarreto.pdf
 description: Esta é uma descrição da página. Você pode modificá-la em '_pages/cv.md'. Também pode alterar ou remover o botão no topo de download de pdf.
