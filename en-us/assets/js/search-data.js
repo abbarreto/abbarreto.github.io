@@ -413,7 +413,7 @@ ninja.data = [{
           title: 'Membro da CA-RQI',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/en-us/news/pt-br/announcement_4/";
+              window.location.href = "/en-us/news/en-us/announcement_4/";
             },},{id: "news-membro-da-ca-bridgeqg",
           title: 'Membro da CA-BridgeQG',
           description: "",
