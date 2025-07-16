@@ -1,9 +1,14 @@
 ---
 layout: post
-title: Membro da CA-RQI
+title: Member of CA-RQI
 date: 2024-10-22 20:00:00-0400
 inline: false
 related_posts: false
+tags: Cost-action
+categories: membership
+images:
+  compare: true
+  slider: true
 ---
 
 **CA23115**: _Relativistic Quantum Information_ (`RQI`)
