@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: photo_wp-cutted2.jpeg
+  image: assets/img/photo_wp-cutted2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
 
