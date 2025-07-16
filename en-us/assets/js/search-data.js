@@ -409,8 +409,8 @@ ninja.data = [{
             },},{id: "news-participating-on-vcq-amp-amp-turis-summer-school-2024",
           title: 'Participating on VCQ&amp;amp;amp;TURIS - Summer School 2024.',
           description: "",
-          section: "News",},{id: "news-membro-da-ca-rqi",
-          title: 'Membro da CA-RQI',
+          section: "News",},{id: "news-member-of-ca-rqi",
+          title: 'Member of CA-RQI',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/en-us/news/en-us/announcement_4/";
