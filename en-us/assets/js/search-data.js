@@ -414,11 +414,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/en-us/news/en-us/announcement_4/";
-            },},{id: "news-membro-da-ca-bridgeqg",
-          title: 'Membro da CA-BridgeQG',
+            },},{id: "news-member-of-ca-bridgeqg",
+          title: 'Member of CA-BridgeQG',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/en-us/news/pt-br/announcement_5/";
+              window.location.href = "/en-us/news/en-us/announcement_5/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
