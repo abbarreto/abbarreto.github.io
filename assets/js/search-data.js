@@ -416,7 +416,17 @@ ninja.data = [{
             },},{id: "news-participating-on-vcq-amp-amp-turis-summer-school-2024",
           title: 'Participating on VCQ&amp;amp;amp;TURIS - Summer School 2024.',
           description: "",
-          section: "Novidades",},{id: "projects-projeto-1",
+          section: "Novidades",},{id: "news-membro-da-ca-rqi",
+          title: 'Membro da CA-RQI',
+          description: "",
+          section: "Novidades",handler: () => {
+              window.location.href = "/news/pt-br/announcement_4/";
+            },},{id: "news-membro-da-ca-bridgeqg",
+          title: 'Membro da CA-BridgeQG',
+          description: "",
+          section: "Novidades",handler: () => {
+              window.location.href = "/news/pt-br/announcement_5/";
+            },},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
           section: "Projetos",handler: () => {
