@@ -16,12 +16,6 @@ images:
   {% include figure.liquid path="assets/img/news/COST RQI Logo A.png" class="img-fluid" slot="second" %}
 </img-comparison-slider>
 
-{% if site.enable_darkmode  %}
-  {% include figure.liquid loading="eager" path="assets/img/news/COST RQI Logo A.png" class="img-fluid" %}
-{% else %}
-  {% include figure.liquid loading="eager" path="assets/img/news/COST RQI Logo B.png" class="img-fluid" %}
-{% endif %}
-
 ---
 
 #### Descrição
@@ -29,8 +23,8 @@ images:
 
 ---
 
-#### Palavras-chave da CA
-> `Innformação Quântica`; `Relatividade`; `Emaranhamento`; `Física quântica gravitacional`; `Teoria Quântica de Campos`.
+#### Palavras-chave da Ação
+> `Informação Quântica`; `Relatividade`; `Emaranhamento`; `Física quântica gravitacional`; `Teoria Quântica de Campos`.
 
 ---
 
@@ -40,9 +34,11 @@ images:
 
 ---
 
-### Histórico da candidatura
+#### Histórico da candidatura
+* `20/09/2024` Data de **início** da Ação
 * `22/10/2024` **Adriano Barreto** submeteu a candidatura;
 * `22/10/2024` **Charis Anastopoulos** aprovou a candidatura.
+* `19/09/2028`  Data de **término** da Ação
 
 ---
 

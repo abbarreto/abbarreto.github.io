@@ -34,9 +34,11 @@ images:
 
 ---
 
-### Application history
-* `22/10/2024` **Adriano Barreto** has submitted the application;
-* `22/10/2024` **Charis Anastopoulos** has approved the application.
+#### Application history
+* `20/09/2024` Actions **start** date
+* `22/10/2024` **Adriano Barreto** submitted the application
+* `22/10/2024` **Charis Anastopoulos** approved the application
+* `19/09/2028` Actions **end** date
 
 ---
 
