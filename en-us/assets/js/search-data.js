@@ -34,20 +34,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/en-us/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/en-us/teaching/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/en-us/cv/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
