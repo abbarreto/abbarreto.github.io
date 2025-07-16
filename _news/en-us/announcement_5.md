@@ -13,13 +13,13 @@ images:
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/news/LogoBridgeQGlight.png" class="img-fluid" slot="first" %}
-  {% include figure.liquid path="assets/img/news/LogoBridgeQGdark.png" class="img-fluid" slot="second" %}
+  {% include figure.liquid path="assets/img/news/LogoBridgeQGlight.png" class="img-fluid" slot="second" %}
 </img-comparison-slider>
 
 ---
 
 #### Description
-> "_Recent advances in both high-energy astrophysics and high-precision table-top experiments are pushing our capability to test nature in regimes where gravity meets quantum physics. Astrophysical observations are now potentially sensitive to tiny residual effects of Planck-scale physics, while table-top experiments are reaching the precision needed to test the interplay between gravity and quantum systems at ultra-low energies. Investigations of these regimes, in particular once they are combined, will provide important clues towards the understanding of the full-fledged theory of quantum gravity._ 
+"_Recent advances in both high-energy astrophysics and high-precision table-top experiments are pushing our capability to test nature in regimes where gravity meets quantum physics. Astrophysical observations are now potentially sensitive to tiny residual effects of Planck-scale physics, while table-top experiments are reaching the precision needed to test the interplay between gravity and quantum systems at ultra-low energies. Investigations of these regimes, in particular once they are combined, will provide important clues towards the understanding of the full-fledged theory of quantum gravity._ 
 
 _The main aim of the Action is to bring together scientists with a variety of complementary expertise: theorists working on quantum gravity or the interplay between gravity and quantum physics with quantum information and quantum optics tools, and experimentalists involved in astrophysical searches for quantum gravity, or investigating the effects of gravitational interactions on quantum systems. The resulting interdisciplinary collaboration will develop a common language and a shared framework which will boost investigations at the interface between high-energy quantum gravity and quantum aspects of gravity in the weak-field regime. The Action will also facilitate cross-disciplinary training and exposure of young scientists to different communities with a common goal, serving as a career accelerator. The synergy within this newly-formed community will be essential to systematically search for quantum gravity on all scales, and possibly find the first signatures of new physics._
 
@@ -44,8 +44,8 @@ _The topics covered by BridgeQG are particularly suited for outreach. The Action
 
 #### Application history
 * `18/09/2024` Actions **start** date
-* `22/10/2024` **Adriano Barreto** submitted the application
-* `22/10/2024` **Giulia Gubitosi** approved the application
+* `25/11/2024` **Adriano Barreto** submitted the application
+* `25/11/2024` **Giulia Gubitosi** approved the application
 * `17/09/2028` Actions **end** date
 
 ---
