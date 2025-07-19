@@ -42,4 +42,9 @@ images:
 
 ---
 
+#### Redes sociais da CA-RQI
+* `Youtube` (https://www.youtube.com/@RQICOST)[https://www.youtube.com/@RQICOST]
+
+---
+
 Para mais informações, visite [https://www.cost.eu/actions/CA23115/](https://www.cost.eu/actions/CA23115/)
