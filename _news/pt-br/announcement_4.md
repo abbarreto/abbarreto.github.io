@@ -43,7 +43,7 @@ images:
 ---
 
 #### Redes sociais da CA-RQI
-* `Youtube` (https://www.youtube.com/@RQICOST)[https://www.youtube.com/@RQICOST]
+* `Youtube` [https://www.youtube.com/@RQICOST](https://www.youtube.com/@RQICOST)
 
 ---
 

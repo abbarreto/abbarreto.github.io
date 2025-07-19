@@ -52,11 +52,11 @@ _Os tópicos abordados pela BridgeQG são particularmente adequados para divulga
 ---
 
 #### Redes sociais da CA-RQI
-* `Facebook` (https://www.facebook.com/people/Bridge-QG/61577731095153/)[https://www.facebook.com/people/Bridge-QG/61577731095153/]
-* `Instagram` (https://www.instagram.com/BridgeQG/)[https://www.instagram.com/BridgeQG/]
-* `Twitter` (https://x.com/Bridge_QG)[https://x.com/Bridge_QG]
-* `Youtube` (https://www.youtube.com/@BridgeQG)[https://www.youtube.com/@BridgeQG]
-* `Website` (https://web.infn.it/BridgeQG/)[https://web.infn.it/BridgeQG/]
+* `Facebook` [https://www.facebook.com/people/Bridge-QG/61577731095153/](https://www.facebook.com/people/Bridge-QG/61577731095153/)
+* `Instagram` [https://www.instagram.com/BridgeQG/](https://www.instagram.com/BridgeQG/)
+* `Twitter` [https://x.com/Bridge_QG](https://x.com/Bridge_QG)
+* `Youtube` [https://www.youtube.com/@BridgeQG](https://www.youtube.com/@BridgeQG)
+* `Website` [https://web.infn.it/BridgeQG/](https://web.infn.it/BridgeQG/)
 
 ---
 
