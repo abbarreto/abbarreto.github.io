@@ -13,9 +13,9 @@ images:
 
 <a href="https://web.infn.it/BridgeQG/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGlight.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" />
-    <img alt="Star History Chart" src="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGlight.png" />
+    <img alt=" " src="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" style="max-width: 100%; height: auto; display: block;"/>
   </picture>
 </a>
 
