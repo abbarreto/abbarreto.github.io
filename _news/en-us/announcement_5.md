@@ -11,10 +11,11 @@ images:
   slider: true
 ---
 
-<img-comparison-slider>
-  {% include figure.liquid path="assets/img/news/LogoBridgeQGdark.png" class="img-fluid" slot="first" %}
-  {% include figure.liquid path="assets/img/news/LogoBridgeQGdark.png" class="img-fluid" slot="second" %}
-</img-comparison-slider>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGlight.png" />
+    <img class="responsive-img-srcset" src="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" />
+  </picture>
 
 ---
 
