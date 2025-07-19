@@ -13,20 +13,11 @@ images:
 
 <a href="https://web.infn.it/BridgeQG/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/img/news/LogoBridgeQGlight.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/img/news/LogoBridgeQGdark.png" />
-    <img alt="Star History Chart" src="assets/img/news/LogoBridgeQGdark.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGlight.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" />
+    <img alt="Star History Chart" src="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" />
   </picture>
 </a>
-
-<img-comparison-slider>
-  {% include figure.liquid path="assets/img/news/LogoBridgeQGdark.png" class="img-fluid" slot="first" %}
-  {% include figure.liquid path="assets/img/news/LogoBridgeQGdark.png" class="img-fluid" slot="second" %}
-  {% if site.enable_darkmode %}
-    {% include figure.liquid path="assets/img/news/LogoBridgeQGlight.png" class="img-fluid" slot="first" %}
-    {% include figure.liquid path="assets/img/news/LogoBridgeQGlight.png" class="img-fluid" slot="second" %}
-  {% endif %}
-</img-comparison-slider>
 
 ---
 
