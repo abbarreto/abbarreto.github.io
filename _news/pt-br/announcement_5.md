@@ -17,6 +17,7 @@ images:
   {% if site.enable_darkmode %}
     {% include figure.liquid path="assets/img/news/LogoBridgeQGlight.png" class="img-fluid" slot="first" %}
     {% include figure.liquid path="assets/img/news/LogoBridgeQGlight.png" class="img-fluid" slot="second" %}
+  {% endif %}
 </img-comparison-slider>
 
 ---
