@@ -12,9 +12,9 @@ images:
 ---
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGlight.png" />
-    <img class="responsive-img-srcset" src="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGdark.png" style="max-width: 100%; height: auto; display: block;"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://abbarreto.github.io/assets/img/news/LogoBridgeQGlight.png" style="max-width: 100%; height: auto; display: block;"/>
+    <img class="responsive-img-srcset" src="https://abbarreto.github.io/assets/img/news/LogoBridgeQGlight.png" style="max-width: 100%; height: auto; display: block;"/>
   </picture>
 
 ---
