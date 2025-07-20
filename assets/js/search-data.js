@@ -43,7 +43,7 @@ ninja.data = [{
           },
         },{id: "post-confs-e-empregos",
         
-          title: "Confs e empregos",
+          title: "Confs e Empregos",
         
         description: "Neste post, listo alguns links que costumo acompanhar para ficar por dentro de conferências e oportunidades de emprego nas áreas de relatividade e física quântica em geral.",
         section: "Postagens",
