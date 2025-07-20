@@ -13,11 +13,11 @@ related_posts: false
 
 In this post, I share two websites I often use to stay updated with the latest research articles in the fields of gravitation (GR-QC) and quantum physics (quant-ph):
 
-- [`arXiv`](https://arxiv.org/), a repository of scientific preprints covering various fields such as physics, mathematics, computer science, and more. It's the main source for recent articles in the GR-QC and quant-ph communities. Perfect for tracking real-time research developments before formal journal publication.
+- <i class="ai ai-arxiv-square ai-1x"></i> [`arXiv`](https://arxiv.org/), a repository of scientific preprints covering various fields such as physics, mathematics, computer science, and more. It's the main source for recent articles in the GR-QC and quant-ph communities. Perfect for tracking real-time research developments before formal journal publication.
 	- [`gr-qc`](https://arxiv.org/list/gr-qc/new): latest in General Relativity and Quantum Cosmology;
 	- [`quant-ph`](https://arxiv.org/list/quant-ph/new): latest in Quantum Physics.
 
-- [`SciRate`](https://scirate.com/), a collaborative platform where researchers can upvote and comment on arXiv papers. It focuses especially on areas like quantum physics (quant-ph) and is helpful for quickly spotting which articles are drawing attention from the community.
+- <i class="ai ai-scirate-square ai-1x"></i> [`SciRate`](https://scirate.com/), a collaborative platform where researchers can upvote and comment on arXiv papers. It focuses especially on areas like quantum physics (quant-ph) and is helpful for quickly spotting which articles are drawing attention from the community.
 
 These two sites are essential tools for anyone looking to follow scientific advances in a fast and accessible way.
 
