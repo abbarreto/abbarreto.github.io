@@ -41,7 +41,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-useful-links-for-confs-and-open-positions",
+        
+          title: "Useful links for confs and open-positions",
+        
+        description: "Neste post, listo alguns links que costumo acompanhar para ficar por dentro de conferências e oportunidades de emprego nas áreas de relatividade e física quântica em geral.",
+        section: "Postagens",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/useful-links/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
