@@ -52,6 +52,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/useful-links/";
           
         },
+      },{id: "post-arxiv-e-scirate",
+        
+          title: "ArXiV e SciRate",
+        
+        description: "Neste post, compartilho dois sites que uso para acompanhar os artigos mais recentes nas áreas de gravitação (GR-QC) e física quântica (quant-ph).",
+        section: "Postagens",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/arxiv-scirate/";
+          
+        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",

@@ -52,6 +52,17 @@ ninja.data = [{
             window.location.href = "/en-us/blog/2025/useful-links/";
           
         },
+      },{id: "post-arxiv-and-scirate",
+        
+          title: "ArXiV and SciRate",
+        
+        description: "In this post, I share two websites I use to keep up with the latest research papers in the fields of gravitation (GR-QC) and quantum physics (quant-ph).",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/en-us/blog/2025/arxiv-scirate/";
+          
+        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
