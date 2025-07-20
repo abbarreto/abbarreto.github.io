@@ -409,14 +409,6 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/pt-br/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "Novidades",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "Novidades",handler: () => {
-              window.location.href = "/news/pt-br/announcement_2/";
             },},{id: "news-participating-on-vcq-amp-amp-turis-summer-school-2024",
           title: 'Participating on VCQ&amp;amp;amp;TURIS - Summer School 2024.',
           description: "",
@@ -424,12 +416,12 @@ ninja.data = [{
           title: 'Membro da CA-RQI',
           description: "",
           section: "Novidades",handler: () => {
-              window.location.href = "/news/pt-br/announcement_4/";
+              window.location.href = "/news/pt-br/announcement_2/";
             },},{id: "news-membro-da-ca-bridgeqg",
           title: 'Membro da CA-BridgeQG',
           description: "",
           section: "Novidades",handler: () => {
-              window.location.href = "/news/pt-br/announcement_5/";
+              window.location.href = "/news/pt-br/announcement_3/";
             },},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
