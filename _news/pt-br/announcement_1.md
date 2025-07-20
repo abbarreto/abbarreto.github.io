@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-02 09:00:00 +0200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Participating on <a href="https://vcq.quantum.at/summer-school-2024/">VCQ&TURIS - Summer School 2024</a>.

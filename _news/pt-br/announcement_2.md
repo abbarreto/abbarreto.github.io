@@ -1,33 +1,51 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Membro da CA-RQI
+date: 2024-10-22 20:00:00-0400
 inline: false
 related_posts: false
+tags: Cost-action
+categories: membership
+images:
+  compare: true
+  slider: true
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
----
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://abbarreto.github.io/assets/img/news/COST RQI Logo B.png" style="max-width: 100%; height: auto; display: block;"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://abbarreto.github.io/assets/img/news/COST RQI Logo A.png" style="max-width: 100%; height: auto; display: block;"/>
+    <img class="responsive-img-srcset" src="https://abbarreto.github.io/assets/img/news/COST RQI Logo B.png" style="max-width: 100%; height: auto; display: block;"/>
+  </picture>
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+#### Descrição
+"_Esta Cost Action (`CA`) busca compreender a relação entre a Ciência da Informação Quântica (`QIS`) e o outro grande paradigma da física moderna, a saber, a teoria da relatividade. Esta última descreve os processos físicos como ocorrendo em um espaço-tempo sujeito a simetrias fundamentais, além de fornecer a descrição de fenômenos gravitacionais. A `RQI` aplicará conceitos da informação quântica a problemas fundamentais da física relativística, como eles aparecem em diversos campos de pesquisa, mas também visa incorporar os princípios fundamentais das teorias relativísticas às fundações da `QIS`, a fim de criar novas oportunidades para avanços teóricos e aplicações tecnológicas. O domínio desta `CA` atravessa diferentes campos da ciência física, incluindo ciência e tecnologia da informação quântica, física de altas energias, fundamentos da mecânica quântica, gravidade quântica, física matemática, óptica quântica e ciência espacial. A `RQI` criará uma rede forte que reunirá pesquisadores de diferentes disciplinas, tanto teóricos quanto experimentais, para compartilhar suas perspectivas, com o objetivo de avançar tanto a física fundamental quanto as tecnologias quânticas. A `CA` desenvolverá uma estrutura conceitual comum que supere as limitações das especializações existentes, promoverá experimentos visionários para resolver questões fundamentais da física, trabalhará em conjunto com a indústria e agências espaciais, e construirá um roteiro para o desenvolvimento de longo prazo da área de pesquisa._"
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+---
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+#### Palavras-chave da Ação
+> `Informação Quântica`; `Relatividade`; `Emaranhamento`; `Física quântica gravitacional`; `Teoria Quântica de Campos`.
+
+---
+
+#### Grupos de trabalho dos quais faço parte
+- `WG 1` Aspectos da TQC na Informação Quântica;
+- `WG 2` Física quântica gravitacional e metrologia.
+
+---
+
+#### Histórico da candidatura
+* `20/09/2024` Data de **início** da Ação
+* `22/10/2024` **Adriano Barreto** submeteu a candidatura;
+* `22/10/2024` **Charis Anastopoulos** aprovou a candidatura.
+* `19/09/2028`  Data de **término** da Ação
+
+---
+
+#### Redes sociais da CA-RQI
+* `Youtube` [https://www.youtube.com/@RQICOST](https://www.youtube.com/@RQICOST)
+
+---
+
+Para mais informações, visite [https://www.cost.eu/actions/CA23115/](https://www.cost.eu/actions/CA23115/)
