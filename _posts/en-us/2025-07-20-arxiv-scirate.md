@@ -19,7 +19,5 @@ In this post, I share two websites I often use to stay updated with the latest r
 
 - <i class="ai ai-scirate-square ai-1x"></i> [`SciRate`](https://scirate.com/), a collaborative platform where researchers can upvote and comment on arXiv papers. It focuses especially on areas like quantum physics (quant-ph) and is helpful for quickly spotting which articles are drawing attention from the community.
 
-These two sites are essential tools for anyone looking to follow scientific advances in a fast and accessible way.
 
-{{< ai arxiv color=red >}}
-{{< ai scirate color=red >}}
+These two sites are essential tools for anyone looking to follow scientific advances in a fast and accessible way.
