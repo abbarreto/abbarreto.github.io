@@ -331,7 +331,7 @@ ninja.data = [{
         
           title: "a post with diagrams",
         
-        description: "an example of a blog post with diagrams",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -402,17 +402,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/en-us/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/en-us/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
