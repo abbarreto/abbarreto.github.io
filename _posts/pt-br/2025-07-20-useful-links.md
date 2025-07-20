@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Useful links for confs and open-positions
-date: 2025-07-20 10:29:00
+date: 2025-07-20
 description: Neste post, listo alguns links que costumo acompanhar para ficar por dentro de conferências e oportunidades de emprego nas áreas de relatividade e física quântica em geral.
 tags: General-Relativity Quantum-Mechanics RQI QFT
 categories: useful-links conferences open-positions
