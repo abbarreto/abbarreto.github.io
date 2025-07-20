@@ -21,3 +21,5 @@ In this post, I share two websites I often use to stay updated with the latest r
 
 These two sites are essential tools for anyone looking to follow scientific advances in a fast and accessible way.
 
+{{< ai arxiv color=red >}}
+{{< ai scirate color=red >}}
