@@ -7,7 +7,6 @@ tags: General-Relativity Quantum-Mechanics RQI QFT
 categories: useful-links conferences open-positions
 featured: true
 related_posts: true
-related_publications: true
 ---
 
 ## 📚 Useful Links for Conferences and Open Positions
