@@ -9,7 +9,7 @@ featured: true
 related_posts: false
 ---
 
-## 📚 Useful Links for Conferences and Open Positions
+### Useful links for Conferences and Open-positions
 
 Below is a checklist of websites I use to stay updated on upcoming conferences and open academic or research positions:
 
