@@ -54,7 +54,7 @@ ninja.data = [{
         },
       },{id: "post-arxiv-e-scirate",
         
-          title: "ArXiV e SciRate",
+          title: "arXiv e SciRate",
         
         description: "Neste post, compartilho dois sites que uso para acompanhar os artigos mais recentes nas áreas de gravitação (GR-QC) e física quântica (quant-ph).",
         section: "Postagens",
