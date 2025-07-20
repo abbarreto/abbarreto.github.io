@@ -41,9 +41,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/en-us/publications/";
           },
-        },{id: "post-useful-links-for-confs-and-open-positions",
+        },{id: "post-confs-and-open-positions",
         
-          title: "Useful links for confs and open-positions",
+          title: "Confs and Open-positions",
         
         description: "In this post, I list some links I usually keep an eye on to learn about conferences and job opportunities in the fields of relativity and quantum physics in general.",
         section: "Posts",
