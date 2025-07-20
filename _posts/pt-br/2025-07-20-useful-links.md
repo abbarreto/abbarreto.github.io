@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Confs e Empregos
-date: 2025-07-20
+date: 2025-07-20 2025-07-20 09:30:00+0200
 description: Neste post, listo alguns links que costumo acompanhar para ficar por dentro de conferências e oportunidades de emprego nas áreas de relatividade e física quântica em geral.
 tags: General-Relativity Quantum-Mechanics RQI QFT
 categories: useful-links conferences open-positions

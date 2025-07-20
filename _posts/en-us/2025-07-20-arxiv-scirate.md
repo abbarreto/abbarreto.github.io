@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ArXiV and SciRate
-date: 2025-07-20
+title: arXiv and SciRate
+date: 2025-07-20 09:00:00+0200
 description: In this post, I share two websites I use to keep up with the latest research papers in the fields of gravitation (GR-QC) and quantum physics (quant-ph).
 tags: General-Relativity Quantum-Cosmology Quantum-Mechanics RQI QFT
 categories: useful-links papers
