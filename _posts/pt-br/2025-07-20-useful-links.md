@@ -15,7 +15,7 @@ Abaixo está uma lista de sites que costumo acompanhar para me manter atualizado
 
 - [`ISRQI`](https://isrqi.net/#home), International Society for Relativistic Quantum Information. Organiza eventos e compartilha atualizações relacionadas à teoria da informação quântica relativística.
 
-- [`QT lab`](https://quantum.technology/conf/index.html), Lista de Conferências em Tecnologia Quântica. Mantém um calendário de conferências nas áreas de informação quântica, óptica quântica e campos relacionados.
+- [`QT-lab`](https://quantum.technology/conf/index.html), Lista de Conferências em Tecnologia Quântica. Mantém um calendário de conferências nas áreas de informação quântica, óptica quântica e campos relacionados.
 
 - [`Quantiki`](https://www.quantiki.org/), Um centro para a comunidade de ciência da informação quântica. Oferece listas de empregos, anúncios de conferências e diretórios de grupos de pesquisa.
 
