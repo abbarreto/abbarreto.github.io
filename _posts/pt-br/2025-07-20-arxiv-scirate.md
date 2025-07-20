@@ -9,7 +9,7 @@ featured: true
 related_posts: false
 ---
 
-### Links úteis para acompanhar artigos científicos em GR-QC e quant-ph
+### Links úteis para acompanhar artigos científicos em gr-qc e quant-ph
 
 Neste post, compartilho dois sites que costumo usar para me manter atualizado com os artigos mais recentes nas áreas de gravitação (GR-QC) e física quântica (quant-ph):
 
