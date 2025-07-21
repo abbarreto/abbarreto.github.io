@@ -13,7 +13,7 @@ related_posts: false
 
 Below is a checklist of websites I use to stay updated on upcoming conferences and open academic or research positions:
 
-- <img src="/home/adriano/abbarreto-website/abbarreto.github.io/assets/img/icons/ISRQIlogo.svg" alt="icon-isrqi">[`ISRQI`](https://isrqi.net/#home), International Society for Relativistic Quantum Information. Hosts events and shares updates related to relativistic quantum information theory.
+- <img src="/home/adriano/abbarreto-website/abbarreto.github.io/assets/img/icons/ISRQIlogo.svg" alt="icon-isrqi" style="font-size: 1em;">[`ISRQI`](https://isrqi.net/#home), International Society for Relativistic Quantum Information. Hosts events and shares updates related to relativistic quantum information theory.
 
 - [`QT-lab`](https://quantum.technology/conf/index.html), Quantum Technology Conference List. Maintains a calendar of upcoming conferences in quantum information, quantum optics, and related fields.
 
