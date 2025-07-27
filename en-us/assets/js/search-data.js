@@ -63,17 +63,6 @@ ninja.data = [{
             window.location.href = "/en-us/blog/2025/arxiv-scirate/";
           
         },
-      },{id: "post-vcq-amp-turis-summer-school-2024",
-        
-          title: "VCQ&amp;TURIS - Summer School 2024.",
-        
-        description: "Interfacing Gravity and Quantum Physics.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/en-us/blog/2024/vcq-summer-school/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
